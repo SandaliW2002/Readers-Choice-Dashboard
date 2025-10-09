@@ -26,57 +26,57 @@ Visuals Used: Cards, column charts, pie charts, line graphs, and slicers
 
 🧠 Tasks Performed
 
-Data Collection & Cleaning
+*Data Collection & Cleaning*
 
-Gathered readers’ choice data from the given dataset.
+-Gathered readers’ choice data from the given dataset.
 
-Cleaned and formatted raw data using Power Query (removed duplicates, handled missing values, renamed columns).
+-Cleaned and formatted raw data using Power Query (removed duplicates, handled missing values, renamed columns).
 
-Ensured consistency in categorical variables such as book titles, genres, and author names.
+-Ensured consistency in categorical variables such as book titles, genres, and author names.
 
-Data Modeling
+*Data Modeling*
 
-Built logical relationships between tables (books, readers, votes, and categories).
+-Built logical relationships between tables (books, readers, votes, and categories).
 
-Created a star schema for efficient querying and reporting.
+-Created a star schema for efficient querying and reporting.
 
-Applied data type conversions and hierarchy creation (e.g., Year → Month → Day).
+-Applied data type conversions and hierarchy creation (e.g., Year → Month → Day).
 
-DAX Calculations
+*DAX Calculations*
 
-Created key performance indicators (KPIs) using DAX measures.
+-Created key performance indicators (KPIs) using DAX measures.
 
-Calculated total votes, average ratings, and ranking measures.
+-Calculated total votes, average ratings, and ranking measures.
 
-Developed dynamic metrics for top N analysis and growth rate comparisons.
+-Developed dynamic metrics for top N analysis and growth rate comparisons.
 
-Dashboard Design & Visualization
+*Dashboard Design & Visualization*
 
-Designed a clean and interactive dashboard layout.
+-Designed a clean and interactive dashboard layout.
 
-Added slicers for filtering by genre, year, and author.
+-Added slicers for filtering by genre, year, and author.
 
-Used appropriate visuals (bar charts, line charts, and donut charts) for data storytelling.
+-Used appropriate visuals (bar charts, line charts, and donut charts) for data storytelling.
 
-Implemented conditional formatting and tooltips to enhance interactivity.
+-Implemented conditional formatting and tooltips to enhance interactivity.
 
-Insight Generation
+*Insight Generation*
 
-Identified trends in reader preferences over time.
+-Identified trends in reader preferences over time.
 
-Highlighted top 5 books and most popular genres.
+-Highlighted top 5 books and most popular genres.
 
-Analyzed the relationship between reader demographics and book popularity.
+-Analyzed the relationship between reader demographics and book popularity.
 
-Summarized insights into actionable recommendations for future campaigns.
+-Summarized insights into actionable recommendations for future campaigns.
 
-Dashboard Optimization
+*Dashboard Optimization*
 
-Ensured performance efficiency by optimizing DAX formulas and visuals.
+-Ensured performance efficiency by optimizing DAX formulas and visuals.
 
-Reduced load time by minimizing redundant calculations.
+-Reduced load time by minimizing redundant calculations.
 
-Verified accuracy of all calculated fields and visuals.
+-Verified accuracy of all calculated fields and visuals.
 
 📈 Key Insights
 
